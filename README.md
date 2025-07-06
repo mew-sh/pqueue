@@ -1,6 +1,8 @@
 # PQueue - Intelligent Priority Queue and Sorting Library
 
 [![Go Version](https://img.shields.io/badge/Go-1.24+-blue.svg)](https://golang.org)
+[![GoDoc](https://pkg.go.dev/badge/github.com/mew-sh/pqueue.svg)](https://pkg.go.dev/github.com/mew-sh/pqueue)
+[![Go Report Card](https://goreportcard.com/badge/github.com/mew-sh/pqueue)](https://goreportcard.com/report/github.com/mew-sh/pqueue)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 PQueue is a high-performance Go library that provides intelligent priority queue operations and adaptive sorting algorithms. It automatically selects the optimal sorting algorithm based on data characteristics, ensuring maximum performance across different scenarios.
